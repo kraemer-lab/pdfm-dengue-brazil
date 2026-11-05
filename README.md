@@ -1,5 +1,7 @@
 # Dengue Forecasting with Foundation Models
 
+[![DOI](https://zenodo.org/badge/1349521407.svg)](https://doi.org/10.5281/zenodo.23984557)
+
 This repository contains the code used to generate the figures and tables for the manuscript:
 
 **Foundation models capture human and environmental context to improve dengue forecasting**
