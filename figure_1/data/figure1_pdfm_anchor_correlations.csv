@@ -1,0 +1,331 @@
+group,anchor,feature,feature_index,pearson_r,n
+Search Trends,log_nightlight,feature0,0,0.12585911522630397,5570
+Search Trends,log_nightlight,feature1,1,0.21353178868043401,5570
+Search Trends,log_nightlight,feature2,2,-0.4758772328622848,5570
+Search Trends,log_nightlight,feature3,3,-0.2871079660783178,5570
+Search Trends,log_nightlight,feature4,4,0.03316562880586656,5570
+Search Trends,log_nightlight,feature5,5,-0.04535590608743865,5570
+Search Trends,log_nightlight,feature6,6,-0.24621147524513234,5570
+Search Trends,log_nightlight,feature7,7,-0.045271641849903226,5570
+Search Trends,log_nightlight,feature8,8,0.2573257231785113,5570
+Search Trends,log_nightlight,feature9,9,0.13456934225460782,5570
+Search Trends,log_nightlight,feature10,10,-0.14611056050250054,5570
+Search Trends,log_nightlight,feature11,11,0.008597749156901495,5570
+Search Trends,log_nightlight,feature12,12,-0.09399819546864617,5570
+Search Trends,log_nightlight,feature13,13,-0.05379701978221184,5570
+Search Trends,log_nightlight,feature14,14,-0.07323371032145397,5570
+Search Trends,log_nightlight,feature15,15,-0.020647289305272147,5570
+Search Trends,log_nightlight,feature16,16,-0.18343668231521354,5570
+Search Trends,log_nightlight,feature17,17,-0.04924092757458832,5570
+Search Trends,log_nightlight,feature18,18,0.01597278679134449,5570
+Search Trends,log_nightlight,feature19,19,-0.16142885509411758,5570
+Search Trends,log_nightlight,feature20,20,-0.12700317570519482,5570
+Search Trends,log_nightlight,feature21,21,0.05480932272479206,5570
+Search Trends,log_nightlight,feature22,22,0.05975164094687244,5570
+Search Trends,log_nightlight,feature23,23,-1.6903239453692003e-05,5570
+Search Trends,log_nightlight,feature24,24,-0.28985341607712584,5570
+Search Trends,log_nightlight,feature25,25,-0.003999960484558495,5570
+Search Trends,log_nightlight,feature26,26,-0.023297791232569216,5570
+Search Trends,log_nightlight,feature27,27,-0.05838788515820629,5570
+Search Trends,log_nightlight,feature28,28,0.12104667586508128,5570
+Search Trends,log_nightlight,feature29,29,0.049486915193581636,5570
+Search Trends,log_nightlight,feature30,30,0.2855234450938549,5570
+Search Trends,log_nightlight,feature31,31,0.16782419365503723,5570
+Search Trends,log_nightlight,feature32,32,0.1259721914254972,5570
+Search Trends,log_nightlight,feature33,33,-0.008745898581179917,5570
+Search Trends,log_nightlight,feature34,34,-0.012643376825555082,5570
+Search Trends,log_nightlight,feature35,35,-0.03749432288884761,5570
+Search Trends,log_nightlight,feature36,36,-0.39006570511190164,5570
+Search Trends,log_nightlight,feature37,37,-0.27624704233716224,5570
+Search Trends,log_nightlight,feature38,38,-0.10040139403215356,5570
+Search Trends,log_nightlight,feature39,39,-0.3148796739117493,5570
+Search Trends,log_nightlight,feature40,40,-0.32502194369804727,5570
+Search Trends,log_nightlight,feature41,41,-0.06224343051551909,5570
+Search Trends,log_nightlight,feature42,42,-0.03890610284485514,5570
+Search Trends,log_nightlight,feature43,43,-0.20400439780372334,5570
+Search Trends,log_nightlight,feature44,44,0.0028977484189210683,5570
+Search Trends,log_nightlight,feature45,45,-0.034804637886545135,5570
+Search Trends,log_nightlight,feature46,46,0.06097544731917015,5570
+Search Trends,log_nightlight,feature47,47,-0.0018933323429967488,5570
+Search Trends,log_nightlight,feature48,48,0.019635808601935142,5570
+Search Trends,log_nightlight,feature49,49,0.30925805334950257,5570
+Search Trends,log_nightlight,feature50,50,-0.16729491699293894,5570
+Search Trends,log_nightlight,feature51,51,0.26527131202820625,5570
+Search Trends,log_nightlight,feature52,52,-0.20758328090057424,5570
+Search Trends,log_nightlight,feature53,53,0.0976769242632201,5570
+Search Trends,log_nightlight,feature54,54,-0.17491411182549535,5570
+Search Trends,log_nightlight,feature55,55,0.15462253858925082,5570
+Search Trends,log_nightlight,feature56,56,-0.01305062235577772,5570
+Search Trends,log_nightlight,feature57,57,-0.15748076455553725,5570
+Search Trends,log_nightlight,feature58,58,0.28615173776492137,5570
+Search Trends,log_nightlight,feature59,59,0.08575499766389559,5570
+Search Trends,log_nightlight,feature60,60,-0.12952983170873578,5570
+Search Trends,log_nightlight,feature61,61,0.013658131205508019,5570
+Search Trends,log_nightlight,feature62,62,-0.3286641293549969,5570
+Search Trends,log_nightlight,feature63,63,0.4015090185836674,5570
+Search Trends,log_nightlight,feature64,64,-0.16038635091088058,5570
+Search Trends,log_nightlight,feature65,65,-0.29908758613649994,5570
+Search Trends,log_nightlight,feature66,66,0.11590004625891488,5570
+Search Trends,log_nightlight,feature67,67,0.1876910748183615,5570
+Search Trends,log_nightlight,feature68,68,-0.2387708111774375,5570
+Search Trends,log_nightlight,feature69,69,-0.16515736112269125,5570
+Search Trends,log_nightlight,feature70,70,0.048631233679689516,5570
+Search Trends,log_nightlight,feature71,71,-0.38379219468694825,5570
+Search Trends,log_nightlight,feature72,72,-0.17880233310283675,5570
+Search Trends,log_nightlight,feature73,73,0.15048596248902257,5570
+Search Trends,log_nightlight,feature74,74,0.12343757023943919,5570
+Search Trends,log_nightlight,feature75,75,-0.029858664552023368,5570
+Search Trends,log_nightlight,feature76,76,0.13306309751866688,5570
+Search Trends,log_nightlight,feature77,77,0.38007091318006686,5570
+Search Trends,log_nightlight,feature78,78,-0.15011416379790554,5570
+Search Trends,log_nightlight,feature79,79,-0.2395417230740932,5570
+Search Trends,log_nightlight,feature80,80,0.05080819577470441,5570
+Search Trends,log_nightlight,feature81,81,0.44797617803633316,5570
+Search Trends,log_nightlight,feature82,82,0.1569180432092045,5570
+Search Trends,log_nightlight,feature83,83,-0.08642829864239816,5570
+Search Trends,log_nightlight,feature84,84,0.2044600217711706,5570
+Search Trends,log_nightlight,feature85,85,0.2888664418696039,5570
+Search Trends,log_nightlight,feature86,86,-0.12050911049493555,5570
+Search Trends,log_nightlight,feature87,87,0.12487233431381912,5570
+Search Trends,log_nightlight,feature88,88,-0.03012698938048487,5570
+Search Trends,log_nightlight,feature89,89,0.04263934365333093,5570
+Search Trends,log_nightlight,feature90,90,0.1900639722719501,5570
+Search Trends,log_nightlight,feature91,91,0.19144437338887024,5570
+Search Trends,log_nightlight,feature92,92,-0.07888447028243024,5570
+Search Trends,log_nightlight,feature93,93,0.18398028693094096,5570
+Search Trends,log_nightlight,feature94,94,0.07926744415693046,5570
+Search Trends,log_nightlight,feature95,95,0.07199007045187,5570
+Search Trends,log_nightlight,feature96,96,0.06310922659246881,5570
+Search Trends,log_nightlight,feature97,97,-0.14630798060307793,5570
+Search Trends,log_nightlight,feature98,98,0.024334698728625228,5570
+Search Trends,log_nightlight,feature99,99,-0.025512316154537154,5570
+Search Trends,log_nightlight,feature100,100,0.3009669093067301,5570
+Search Trends,log_nightlight,feature101,101,-0.3910233501250605,5570
+Search Trends,log_nightlight,feature102,102,-0.12196382576402301,5570
+Search Trends,log_nightlight,feature103,103,-0.16029469206809988,5570
+Search Trends,log_nightlight,feature104,104,0.14485307048333296,5570
+Search Trends,log_nightlight,feature105,105,-0.3896921358198459,5570
+Search Trends,log_nightlight,feature106,106,-0.027767266459752797,5570
+Search Trends,log_nightlight,feature107,107,0.20142131642363478,5570
+Search Trends,log_nightlight,feature108,108,0.3738815821044392,5570
+Search Trends,log_nightlight,feature109,109,0.20276975448951984,5570
+Search Trends,log_nightlight,feature110,110,0.4116467480900911,5570
+Search Trends,log_nightlight,feature111,111,0.32355743326002606,5570
+Search Trends,log_nightlight,feature112,112,0.1642515294211332,5570
+Search Trends,log_nightlight,feature113,113,-0.09534316085148245,5570
+Search Trends,log_nightlight,feature114,114,0.1438201535514388,5570
+Search Trends,log_nightlight,feature115,115,0.1985692098473773,5570
+Search Trends,log_nightlight,feature116,116,-0.09680960009240111,5570
+Search Trends,log_nightlight,feature117,117,0.016364866821599544,5570
+Search Trends,log_nightlight,feature118,118,0.5110677224602167,5570
+Search Trends,log_nightlight,feature119,119,-0.2643846138882142,5570
+Search Trends,log_nightlight,feature120,120,0.3228823672590897,5570
+Search Trends,log_nightlight,feature121,121,0.26887851637757026,5570
+Search Trends,log_nightlight,feature122,122,-0.28451204432107924,5570
+Search Trends,log_nightlight,feature123,123,0.12788417627043822,5570
+Search Trends,log_nightlight,feature124,124,-0.10996470152912412,5570
+Search Trends,log_nightlight,feature125,125,-0.223784758120504,5570
+Search Trends,log_nightlight,feature126,126,-0.33602636738524505,5570
+Search Trends,log_nightlight,feature127,127,-0.03850363249340845,5570
+Maps & Busyness,population,feature128,128,0.006606859223519167,5570
+Maps & Busyness,population,feature129,129,-0.001943905165694156,5570
+Maps & Busyness,population,feature130,130,0.00015788933803908547,5570
+Maps & Busyness,population,feature131,131,0.0026461262683318684,5570
+Maps & Busyness,population,feature132,132,-0.01798413091377036,5570
+Maps & Busyness,population,feature133,133,0.006751451947205875,5570
+Maps & Busyness,population,feature134,134,0.03374151179561409,5570
+Maps & Busyness,population,feature135,135,0.023520688376292703,5570
+Maps & Busyness,population,feature136,136,-0.003804451848676907,5570
+Maps & Busyness,population,feature137,137,-0.010140430222215866,5570
+Maps & Busyness,population,feature138,138,-0.00296391257048966,5570
+Maps & Busyness,population,feature139,139,0.007103174495720615,5570
+Maps & Busyness,population,feature140,140,0.01800282127813391,5570
+Maps & Busyness,population,feature141,141,-0.02605881429470911,5570
+Maps & Busyness,population,feature142,142,-0.0019803245971400517,5570
+Maps & Busyness,population,feature143,143,-0.0005041553428011406,5570
+Maps & Busyness,population,feature144,144,0.06584429955199769,5570
+Maps & Busyness,population,feature145,145,0.03245663939703526,5570
+Maps & Busyness,population,feature146,146,-0.0030931813988418727,5570
+Maps & Busyness,population,feature147,147,0.010748134631633259,5570
+Maps & Busyness,population,feature148,148,0.016331328262736245,5570
+Maps & Busyness,population,feature149,149,-0.00736281180858316,5570
+Maps & Busyness,population,feature150,150,-0.0025814964540248416,5570
+Maps & Busyness,population,feature151,151,0.02631476021467849,5570
+Maps & Busyness,population,feature152,152,-0.009309298424142281,5570
+Maps & Busyness,population,feature153,153,0.008822709772498665,5570
+Maps & Busyness,population,feature154,154,0.021944574029777633,5570
+Maps & Busyness,population,feature155,155,0.011451117216412992,5570
+Maps & Busyness,population,feature156,156,0.015733472196134288,5570
+Maps & Busyness,population,feature157,157,0.03534875936790324,5570
+Maps & Busyness,population,feature158,158,0.0015869540852904574,5570
+Maps & Busyness,population,feature159,159,4.548698850981916e-05,5570
+Maps & Busyness,population,feature160,160,-0.013788742502616028,5570
+Maps & Busyness,population,feature161,161,0.011496732913814324,5570
+Maps & Busyness,population,feature162,162,0.027810092421163293,5570
+Maps & Busyness,population,feature163,163,-0.024131915817109023,5570
+Maps & Busyness,population,feature164,164,0.011957555754985435,5570
+Maps & Busyness,population,feature165,165,0.0062356084280775085,5570
+Maps & Busyness,population,feature166,166,0.0006408389790338499,5570
+Maps & Busyness,population,feature167,167,0.010449621870334156,5570
+Maps & Busyness,population,feature168,168,-0.003317239285597375,5570
+Maps & Busyness,population,feature169,169,0.011305329074543501,5570
+Maps & Busyness,population,feature170,170,-0.006317820267880051,5570
+Maps & Busyness,population,feature171,171,0.003821955614671275,5570
+Maps & Busyness,population,feature172,172,-0.023155039186165054,5570
+Maps & Busyness,population,feature173,173,0.03653504054818151,5570
+Maps & Busyness,population,feature174,174,-0.008993454099920766,5570
+Maps & Busyness,population,feature175,175,-0.029233329994101602,5570
+Maps & Busyness,population,feature176,176,0.030409915271726113,5570
+Maps & Busyness,population,feature177,177,0.021324575997759405,5570
+Maps & Busyness,population,feature178,178,0.016335000194521453,5570
+Maps & Busyness,population,feature179,179,0.009238196689791022,5570
+Maps & Busyness,population,feature180,180,0.05423466498352943,5570
+Maps & Busyness,population,feature181,181,-0.021631361423690716,5570
+Maps & Busyness,population,feature182,182,-0.010629817322258235,5570
+Maps & Busyness,population,feature183,183,0.1238902545086973,5570
+Maps & Busyness,population,feature184,184,0.010345583762269087,5570
+Maps & Busyness,population,feature185,185,-0.02730617125435414,5570
+Maps & Busyness,population,feature186,186,0.010374301933524562,5570
+Maps & Busyness,population,feature187,187,0.020049765713789768,5570
+Maps & Busyness,population,feature188,188,0.012486169404558411,5570
+Maps & Busyness,population,feature189,189,0.02062761258275461,5570
+Maps & Busyness,population,feature190,190,0.0010954337180127075,5570
+Maps & Busyness,population,feature191,191,-0.028782953527164114,5570
+Maps & Busyness,population,feature192,192,0.04308229695662129,5570
+Maps & Busyness,population,feature193,193,0.03582298561965984,5570
+Maps & Busyness,population,feature194,194,-0.008216196339970562,5570
+Maps & Busyness,population,feature195,195,0.06578789887788743,5570
+Maps & Busyness,population,feature196,196,0.004393628771600996,5570
+Maps & Busyness,population,feature197,197,0.015907520417721695,5570
+Maps & Busyness,population,feature198,198,0.011682152285637981,5570
+Maps & Busyness,population,feature199,199,-0.004184738149448886,5570
+Maps & Busyness,population,feature200,200,-0.004458815288760766,5570
+Maps & Busyness,population,feature201,201,0.005699745952795361,5570
+Maps & Busyness,population,feature202,202,0.0019345926635590009,5570
+Maps & Busyness,population,feature203,203,0.018608521718858226,5570
+Maps & Busyness,population,feature204,204,0.003566759241095515,5570
+Maps & Busyness,population,feature205,205,-0.003335382602208629,5570
+Maps & Busyness,population,feature206,206,0.002259284708371287,5570
+Maps & Busyness,population,feature207,207,0.1113388592370006,5570
+Maps & Busyness,population,feature208,208,-0.002205532690533346,5570
+Maps & Busyness,population,feature209,209,0.0023856553752764006,5570
+Maps & Busyness,population,feature210,210,-0.0004041471485795442,5570
+Maps & Busyness,population,feature211,211,0.0007193211616650376,5570
+Maps & Busyness,population,feature212,212,0.0023615974142176714,5570
+Maps & Busyness,population,feature213,213,0.003188554413639796,5570
+Maps & Busyness,population,feature214,214,-0.008589241217975744,5570
+Maps & Busyness,population,feature215,215,0.00032633125594496104,5570
+Maps & Busyness,population,feature216,216,-0.03074400917014738,5570
+Maps & Busyness,population,feature217,217,-0.0044124949720672725,5570
+Maps & Busyness,population,feature218,218,0.013307718809529242,5570
+Maps & Busyness,population,feature219,219,-0.01409778671488594,5570
+Maps & Busyness,population,feature220,220,0.11602318536044716,5570
+Maps & Busyness,population,feature221,221,-0.2297241117302031,5570
+Maps & Busyness,population,feature222,222,0.004035182872387879,5570
+Maps & Busyness,population,feature223,223,0.00021902459216082833,5570
+Maps & Busyness,population,feature224,224,0.016721051155461224,5570
+Maps & Busyness,population,feature225,225,0.01386027290949005,5570
+Maps & Busyness,population,feature226,226,-0.07200671864306996,5570
+Maps & Busyness,population,feature227,227,0.01586608271771297,5570
+Maps & Busyness,population,feature228,228,0.04537408491994204,5570
+Maps & Busyness,population,feature229,229,0.004749232573260488,5570
+Maps & Busyness,population,feature230,230,0.014583039654926513,5570
+Maps & Busyness,population,feature231,231,0.1477228182566682,5570
+Maps & Busyness,population,feature232,232,-0.0028503938913309033,5570
+Maps & Busyness,population,feature233,233,-0.02583897705753126,5570
+Maps & Busyness,population,feature234,234,0.002567564823692853,5570
+Maps & Busyness,population,feature235,235,0.0041047853708100525,5570
+Maps & Busyness,population,feature236,236,-0.013832941387927728,5570
+Maps & Busyness,population,feature237,237,-0.019213965169564633,5570
+Maps & Busyness,population,feature238,238,-0.014966171401494354,5570
+Maps & Busyness,population,feature239,239,-0.002239463092144424,5570
+Maps & Busyness,population,feature240,240,-0.004225846598447265,5570
+Maps & Busyness,population,feature241,241,0.0227849459384411,5570
+Maps & Busyness,population,feature242,242,0.017920562815485833,5570
+Maps & Busyness,population,feature243,243,0.023714106785047786,5570
+Maps & Busyness,population,feature244,244,0.0005083954878056762,5570
+Maps & Busyness,population,feature245,245,-0.012365608691140801,5570
+Maps & Busyness,population,feature246,246,0.07356943427377301,5570
+Maps & Busyness,population,feature247,247,-0.028157276150008858,5570
+Maps & Busyness,population,feature248,248,0.011558786171703698,5570
+Maps & Busyness,population,feature249,249,-0.014957928435376829,5570
+Maps & Busyness,population,feature250,250,-0.01124697207483527,5570
+Maps & Busyness,population,feature251,251,0.03166058708449267,5570
+Maps & Busyness,population,feature252,252,0.03885871250270815,5570
+Maps & Busyness,population,feature253,253,0.00019924897893790683,5570
+Maps & Busyness,population,feature254,254,-0.010080536858432979,5570
+Maps & Busyness,population,feature255,255,0.002558171176534788,5570
+Weather & Air Quality,temperature,feature256,256,-0.17120701655290974,5563
+Weather & Air Quality,temperature,feature257,257,0.46133660371570134,5563
+Weather & Air Quality,temperature,feature258,258,0.662908768091187,5563
+Weather & Air Quality,temperature,feature259,259,0.5240519638682524,5563
+Weather & Air Quality,temperature,feature260,260,-0.03203842973792877,5563
+Weather & Air Quality,temperature,feature261,261,-0.5527838962877941,5563
+Weather & Air Quality,temperature,feature262,262,0.04552858819746228,5563
+Weather & Air Quality,temperature,feature263,263,0.6777098624378011,5563
+Weather & Air Quality,temperature,feature264,264,0.24275407904486396,5563
+Weather & Air Quality,temperature,feature265,265,-0.07649205722941071,5563
+Weather & Air Quality,temperature,feature266,266,-0.4229573975297804,5563
+Weather & Air Quality,temperature,feature267,267,-0.454312767247211,5563
+Weather & Air Quality,temperature,feature268,268,0.02659662713036992,5563
+Weather & Air Quality,temperature,feature269,269,-0.45294569681238595,5563
+Weather & Air Quality,temperature,feature270,270,-0.5312762307314123,5563
+Weather & Air Quality,temperature,feature271,271,0.6163342662942168,5563
+Weather & Air Quality,temperature,feature272,272,-0.053468845066276076,5563
+Weather & Air Quality,temperature,feature273,273,0.5111840485178062,5563
+Weather & Air Quality,temperature,feature274,274,-0.0848018924887193,5563
+Weather & Air Quality,temperature,feature275,275,-0.16526930789028027,5563
+Weather & Air Quality,temperature,feature276,276,-0.47115595361226065,5563
+Weather & Air Quality,temperature,feature277,277,0.019672222454981212,5563
+Weather & Air Quality,temperature,feature278,278,0.0319072114849447,5563
+Weather & Air Quality,temperature,feature279,279,0.26264451371119013,5563
+Weather & Air Quality,temperature,feature280,280,0.16065645721641245,5563
+Weather & Air Quality,temperature,feature281,281,-0.07966391044161616,5563
+Weather & Air Quality,temperature,feature282,282,0.3011096944101406,5563
+Weather & Air Quality,temperature,feature283,283,0.45883762101928594,5563
+Weather & Air Quality,temperature,feature284,284,-0.1237827030433084,5563
+Weather & Air Quality,temperature,feature285,285,-0.3737418967241956,5563
+Weather & Air Quality,temperature,feature286,286,-0.5768156194635607,5563
+Weather & Air Quality,temperature,feature287,287,0.32968562410568014,5563
+Weather & Air Quality,temperature,feature288,288,-0.40882515097929834,5563
+Weather & Air Quality,temperature,feature289,289,0.14398703006098537,5563
+Weather & Air Quality,temperature,feature290,290,0.3503108246980639,5563
+Weather & Air Quality,temperature,feature291,291,0.3927922430449821,5563
+Weather & Air Quality,temperature,feature292,292,0.00974264718817322,5563
+Weather & Air Quality,temperature,feature293,293,-0.5905257421131015,5563
+Weather & Air Quality,temperature,feature294,294,0.27923568629746676,5563
+Weather & Air Quality,temperature,feature295,295,0.46632793258181787,5563
+Weather & Air Quality,temperature,feature296,296,-0.4461429615871185,5563
+Weather & Air Quality,temperature,feature297,297,-0.2522949742409692,5563
+Weather & Air Quality,temperature,feature298,298,-0.6368542751861508,5563
+Weather & Air Quality,temperature,feature299,299,0.26067797514190666,5563
+Weather & Air Quality,temperature,feature300,300,-0.4094927561215913,5563
+Weather & Air Quality,temperature,feature301,301,-0.0019924536793544697,5563
+Weather & Air Quality,temperature,feature302,302,0.5390676768047344,5563
+Weather & Air Quality,temperature,feature303,303,-0.3501408294000523,5563
+Weather & Air Quality,temperature,feature304,304,-0.5406734815783839,5563
+Weather & Air Quality,temperature,feature305,305,-0.5145484844102058,5563
+Weather & Air Quality,temperature,feature306,306,-0.44232929055640774,5563
+Weather & Air Quality,temperature,feature307,307,-0.0032485622598347804,5563
+Weather & Air Quality,temperature,feature308,308,0.25834763665378224,5563
+Weather & Air Quality,temperature,feature309,309,0.3913742879523694,5563
+Weather & Air Quality,temperature,feature310,310,-0.6455058674750066,5563
+Weather & Air Quality,temperature,feature311,311,0.7774707820261169,5563
+Weather & Air Quality,temperature,feature312,312,-0.7281988901676822,5563
+Weather & Air Quality,temperature,feature313,313,0.40822863905769435,5563
+Weather & Air Quality,temperature,feature314,314,0.4726591751225672,5563
+Weather & Air Quality,temperature,feature315,315,0.2509652484744045,5563
+Weather & Air Quality,temperature,feature316,316,0.17583811295910984,5563
+Weather & Air Quality,temperature,feature317,317,0.4310914639709434,5563
+Weather & Air Quality,temperature,feature318,318,0.0644090008400368,5563
+Weather & Air Quality,temperature,feature319,319,0.14915249386027907,5563
+Weather & Air Quality,temperature,feature320,320,-0.5006719695171161,5563
+Weather & Air Quality,temperature,feature321,321,-0.49356815952499655,5563
+Weather & Air Quality,temperature,feature322,322,0.5291851288940888,5563
+Weather & Air Quality,temperature,feature323,323,-0.43436926411861576,5563
+Weather & Air Quality,temperature,feature324,324,0.30823860158038313,5563
+Weather & Air Quality,temperature,feature325,325,0.030151848790784235,5563
+Weather & Air Quality,temperature,feature326,326,-0.4040882538440175,5563
+Weather & Air Quality,temperature,feature327,327,0.45327031267629636,5563
+Weather & Air Quality,temperature,feature328,328,-0.7083262633492483,5563
+Weather & Air Quality,temperature,feature329,329,-0.39266522749946997,5563

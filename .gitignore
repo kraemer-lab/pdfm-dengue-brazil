@@ -1,0 +1,11 @@
+.venv
+archive
+**/.DS_Store
+**/__pycache__
+*/figures
+**/*.png
+**/*.svg
+**/*.json
+
+# Large files not required for figure / table generation
+figure_2/data/seasonal_baseline_wis.csv

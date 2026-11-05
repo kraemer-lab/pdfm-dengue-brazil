@@ -1,0 +1,125 @@
+geography,level,model,horizon,n_municipalities,mean_WIS
+Central-West,macroregion,SARIMA,1,467,1.6448446373358234
+Central-West,macroregion,SARIMA,3,467,2.5263959442534407
+Central-West,macroregion,SARIMA,6,467,2.807268196939318
+Central-West,macroregion,SARIMA,12,467,2.7266876700435323
+North,macroregion,SARIMA,1,450,1.356089172602841
+North,macroregion,SARIMA,3,450,1.9406512305321895
+North,macroregion,SARIMA,6,450,2.1341060076563236
+North,macroregion,SARIMA,12,450,2.1478410478348713
+Northeast,macroregion,SARIMA,1,1794,1.3053347588951532
+Northeast,macroregion,SARIMA,3,1794,1.8777149907917037
+Northeast,macroregion,SARIMA,6,1794,2.035495230573583
+Northeast,macroregion,SARIMA,12,1794,2.0223590051197453
+South,macroregion,SARIMA,1,1191,1.4044020318344546
+South,macroregion,SARIMA,3,1191,2.3105486136854423
+South,macroregion,SARIMA,6,1191,2.504151822810462
+South,macroregion,SARIMA,12,1191,2.377700497690964
+Southeast,macroregion,SARIMA,1,1668,1.6267050117189508
+Southeast,macroregion,SARIMA,3,1668,2.794421258171086
+Southeast,macroregion,SARIMA,6,1668,3.1685366877533654
+Southeast,macroregion,SARIMA,12,1668,3.1013214003673264
+Central-West,macroregion,TCN,1,467,1.518936107919519
+Central-West,macroregion,TCN,3,467,2.2557968522983485
+Central-West,macroregion,TCN,6,467,2.5395920673678147
+Central-West,macroregion,TCN,12,467,2.641308880408533
+North,macroregion,TCN,1,450,1.2491116410766832
+North,macroregion,TCN,3,450,1.7133543449511177
+North,macroregion,TCN,6,450,1.8425307900603796
+North,macroregion,TCN,12,450,1.8779193079927805
+Northeast,macroregion,TCN,1,1794,1.133746926493817
+Northeast,macroregion,TCN,3,1794,1.5809844850312547
+Northeast,macroregion,TCN,6,1794,1.7236708668219274
+Northeast,macroregion,TCN,12,1794,1.7694525768600249
+South,macroregion,TCN,1,1191,1.2398460280439128
+South,macroregion,TCN,3,1191,1.8845532374334941
+South,macroregion,TCN,6,1191,2.047925432170205
+South,macroregion,TCN,12,1191,2.1648115811041206
+Southeast,macroregion,TCN,1,1668,1.3834333529914236
+Southeast,macroregion,TCN,3,1668,2.1563214693237476
+Southeast,macroregion,TCN,6,1668,2.4286126241730637
+Southeast,macroregion,TCN,12,1668,2.5071524806065875
+Paraná,state,TCN,1,399,1.5177768462268046
+Paraná,state,TCN,3,399,2.4011943070700688
+Paraná,state,TCN,6,399,2.7069640019833563
+Paraná,state,TCN,12,399,2.8563356773315807
+Rio Grande do Sul,state,TCN,1,497,1.0531527049978637
+Rio Grande do Sul,state,TCN,3,497,1.558540617263698
+Rio Grande do Sul,state,TCN,6,497,1.6445573490617873
+Rio Grande do Sul,state,TCN,12,497,1.7354906427882546
+Santa Catarina,state,TCN,1,295,1.1784636046503953
+Santa Catarina,state,TCN,3,295,1.7350226796009345
+Santa Catarina,state,TCN,6,295,1.836120509964906
+Santa Catarina,state,TCN,12,295,1.9527925707591356
+Central-West,macroregion,XGBoost,1,467,1.6115088101008053
+Central-West,macroregion,XGBoost,3,467,2.37630248625479
+Central-West,macroregion,XGBoost,6,467,2.7211883748238885
+Central-West,macroregion,XGBoost,12,467,2.884804293977483
+North,macroregion,XGBoost,1,450,1.3788735832533208
+North,macroregion,XGBoost,3,450,1.9149732801968111
+North,macroregion,XGBoost,6,450,2.155595965737319
+North,macroregion,XGBoost,12,450,2.2923586438261956
+Northeast,macroregion,XGBoost,1,1794,1.2082997662011987
+Northeast,macroregion,XGBoost,3,1794,1.6674614549641555
+Northeast,macroregion,XGBoost,6,1794,1.8300444161924676
+Northeast,macroregion,XGBoost,12,1794,1.908566352793153
+South,macroregion,XGBoost,1,1191,1.3792123859154701
+South,macroregion,XGBoost,3,1191,2.0509757836908498
+South,macroregion,XGBoost,6,1191,2.2796256143328595
+South,macroregion,XGBoost,12,1191,2.4509475490899453
+Southeast,macroregion,XGBoost,1,1668,1.487824454159395
+Southeast,macroregion,XGBoost,3,1668,2.3367185946670186
+Southeast,macroregion,XGBoost,6,1668,2.6770932553446656
+Southeast,macroregion,XGBoost,12,1668,2.815397281843516
+Central-West,macroregion,N-BEATS,1,467,2.178631104711748
+Central-West,macroregion,N-BEATS,3,467,3.1800670168038065
+Central-West,macroregion,N-BEATS,6,467,3.486063017158092
+Central-West,macroregion,N-BEATS,12,467,3.7173242463304943
+North,macroregion,N-BEATS,1,450,2.0149988437136854
+North,macroregion,N-BEATS,3,450,2.6104250956492234
+North,macroregion,N-BEATS,6,450,2.7852469826642494
+North,macroregion,N-BEATS,12,450,2.965038478793656
+Northeast,macroregion,N-BEATS,1,1794,1.7610911102447282
+Northeast,macroregion,N-BEATS,3,1794,2.3929387117655425
+Northeast,macroregion,N-BEATS,6,1794,2.545664821799259
+Northeast,macroregion,N-BEATS,12,1794,2.721889052047956
+South,macroregion,N-BEATS,1,1191,2.3219108560647146
+South,macroregion,N-BEATS,3,1191,3.0892535066021374
+South,macroregion,N-BEATS,6,1191,3.257721708951268
+South,macroregion,N-BEATS,12,1191,3.5335580866081844
+Southeast,macroregion,N-BEATS,1,1668,2.459955502715828
+Southeast,macroregion,N-BEATS,3,1668,3.737062893103252
+Southeast,macroregion,N-BEATS,6,1668,4.091962515928782
+Southeast,macroregion,N-BEATS,12,1668,4.489130482784059
+Central-West,macroregion,TimesFM,1,467,1.7216834962067873
+Central-West,macroregion,TimesFM,3,467,1.7986237268406164
+Central-West,macroregion,TimesFM,6,467,1.7713375531147049
+Central-West,macroregion,TimesFM,12,467,1.769020085583921
+North,macroregion,TimesFM,1,450,1.4395181649827307
+North,macroregion,TimesFM,3,450,1.4653359534566095
+North,macroregion,TimesFM,6,450,1.4545353125602936
+North,macroregion,TimesFM,12,450,1.4695413060832965
+Northeast,macroregion,TimesFM,1,1794,1.356473300897326
+Northeast,macroregion,TimesFM,3,1794,1.3622622881972306
+Northeast,macroregion,TimesFM,6,1794,1.35735137324641
+Northeast,macroregion,TimesFM,12,1794,1.3666715790340498
+South,macroregion,TimesFM,1,1191,1.317539549534808
+South,macroregion,TimesFM,3,1191,1.4922441434866964
+South,macroregion,TimesFM,6,1191,1.4348916884834304
+South,macroregion,TimesFM,12,1191,1.370315914844438
+Southeast,macroregion,TimesFM,1,1668,1.5959830122415655
+Southeast,macroregion,TimesFM,3,1668,1.7733968776454216
+Southeast,macroregion,TimesFM,6,1668,1.728868986069961
+Southeast,macroregion,TimesFM,12,1668,1.696530363013032
+Paraná,state,TimesFM,1,399,1.7495987216007256
+Paraná,state,TimesFM,3,399,1.954029069990009
+Paraná,state,TimesFM,6,399,1.8853303124217815
+Paraná,state,TimesFM,12,399,1.8205842925886515
+Rio Grande do Sul,state,TimesFM,1,497,1.056466450507446
+Rio Grande do Sul,state,TimesFM,3,497,1.2061471032700095
+Rio Grande do Sul,state,TimesFM,6,497,1.1581593054517632
+Rio Grande do Sul,state,TimesFM,12,497,1.0890007343011716
+Santa Catarina,state,TimesFM,1,295,1.1730030090680208
+Santa Catarina,state,TimesFM,3,295,1.3496612394625336
+Santa Catarina,state,TimesFM,6,295,1.291878072942199
+Santa Catarina,state,TimesFM,12,295,1.235253413183632

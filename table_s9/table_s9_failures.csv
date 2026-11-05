@@ -1,0 +1,7 @@
+State,Model,Horizon,status,municipalities,rows,nonfinite_WIS_rows,NaN_rows,+inf_rows,-inf_rows,municipalities_affected
+São Paulo,N-BEATS,1.0,Numerical failure,645.0,43860.0,43220.0,42734.0,486.0,0.0,645.0
+São Paulo,N-BEATS,3.0,Numerical failure,645.0,43860.0,42530.0,42129.0,401.0,0.0,645.0
+São Paulo,N-BEATS,6.0,Numerical failure,645.0,43860.0,42814.0,42804.0,10.0,0.0,645.0
+São Paulo,N-BEATS,12.0,Numerical failure,645.0,43860.0,42691.0,42584.0,107.0,0.0,645.0
+São Paulo,TCN,,Not assessed,,,,,,,
+São Paulo,TimesFM,,Not assessed,,,,,,,

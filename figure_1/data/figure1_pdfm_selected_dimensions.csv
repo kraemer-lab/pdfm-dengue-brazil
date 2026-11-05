@@ -1,0 +1,4 @@
+group,anchor,feature,feature_index,pearson_r,n
+Search Trends,log_nightlight,feature118,118,0.5110677224602167,5570
+Maps & Busyness,population,feature221,221,-0.2297241117302031,5570
+Weather & Air Quality,temperature,feature311,311,0.7774707820261169,5563
